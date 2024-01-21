@@ -1,4 +1,2 @@
-This is 1th line.
-这是第二行语句。
-This is 3th line.
-End.
+Git is a version control system.
+Git is free software.
